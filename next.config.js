@@ -1,9 +1,21 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true, // Recommended for the `pages` directory, default in `app`.
-  experimental: {
-    // Required:
-    appDir: true,
+  reactStrictMode: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "firebasestorage.googleapis.com",
+      },
+      {
+        protocol: "https",
+        hostname: "tailwindui.com",
+      },
+      {
+        protocol: "https",
+        hostname: "www.startech.com.bd",
+      },
+    ],
   },
 };
 

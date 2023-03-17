@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Banner 1",
+    "src": "/assets/banner/banner1.jpg",
+    "url": "https://www.classiccomputerbd.com"
+  },
+  {
+    "title": "Banner 2",
+    "src": "/assets/banner/banner2.jpg",
+    "url": "https://www.classiccomputerbd.com"
+  },
+  {
+    "title": "Banner 3",
+    "src": "/assets/banner/banner3.jpeg",
+    "url": "https://www.classiccomputerbd.com"
+  },
+  {
+    "title": "Banner 4",
+    "src": "/assets/banner/banner4.jpg",
+    "url": "https://www.classiccomputerbd.com"
+  }
+]

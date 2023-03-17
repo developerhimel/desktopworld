@@ -1,0 +1,98 @@
+[
+  {
+    "title": "All Laptop",
+    "icon": "fa-laptop",
+    "style": "duotone",
+    "values": { "cg": "Laptop", "scg": "All Laptop", "escg": null }
+  },
+  {
+    "title": "Desktop",
+    "icon": "fa-computer",
+    "style": "duotone",
+    "values": { "cg": "Desktop", "scg": null, "escg": null }
+  },
+  {
+    "title": "Monitor",
+    "icon": "fa-display",
+    "style": "regular",
+    "values": { "cg": "Monitor", "scg": null, "escg": null }
+  },
+  {
+    "title": "Processor",
+    "icon": "fa-microchip",
+    "style": "duotone",
+    "values": { "cg": "Pc Components", "scg": "Processor", "escg": null }
+  },
+  {
+    "title": "Graphics Card",
+    "icon": "fa-speaker",
+    "style": "duotone",
+    "values": { "cg": "Pc Components", "scg": "Graphics Card", "escg": null }
+  },
+  {
+    "title": "SSD",
+    "icon": "fa-hard-drive",
+    "style": "duotone",
+    "values": { "cg": "Pc Components", "scg": "SSD", "escg": null }
+  },
+  {
+    "title": "Projector",
+    "icon": "fa-projector",
+    "style": "duotone",
+    "values": { "cg": "Accessories", "scg": "Projector", "escg": null }
+  },
+  {
+    "title": "Mouse",
+    "icon": "fa-mouse",
+    "style": "duotone",
+    "values": { "cg": "Accessories", "scg": "Mouse", "escg": null }
+  },
+  {
+    "title": "Keyboard",
+    "icon": "fa-keyboard",
+    "style": "duotone",
+    "values": { "cg": "Accessories", "scg": "Keyboard", "escg": null }
+  },
+  {
+    "title": "Headphone",
+    "icon": "fa-headset",
+    "style": "duotone",
+    "values": { "cg": "Accessories", "scg": "Headphone", "escg": null }
+  },
+  {
+    "title": "Router",
+    "icon": "fa-router",
+    "style": "duotone",
+    "values": { "cg": "Network Accessories", "scg": "Router", "escg": null }
+  },
+  {
+    "title": "Wifi Camera",
+    "icon": "fa-camera-web",
+    "style": "duotone",
+    "values": { "cg": "Camera", "scg": null, "escg": null }
+  },
+  {
+    "title": "Smart Watch",
+    "icon": "fa-watch-apple",
+    "style": "duotone",
+    "values": { "cg": "Gadget", "scg": "Smart Watch", "escg": null }
+  },
+  {
+    "title": "Gaming Console",
+    "icon": "fa-gamepad-modern",
+    "style": "duotone",
+    "values": { "cg": "Gaming Gears", "scg": "Gaming Console", "escg": null }
+  },
+  {
+    "title": "Printers",
+    "icon": "fa-print",
+    "style": "duotone",
+    "values": { "cg": "Accessories", "scg": "Printer", "escg": null }
+  },
+  {
+    "title": "Gamning Chair",
+    "icon": "fa-chair-office",
+    "style": "duotone",
+    "values": { "cg": "Gaming Gears", "scg": "Gaming Chair", "escg": null }
+  }
+]

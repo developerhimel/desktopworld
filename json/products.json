@@ -1,0 +1,247 @@
+[
+  {
+    "name": "MSI GF63 Thin 10SCXR Core i5 10th Gen GTX 1650 4GB Graphics 15.6'' FHD Gaming Laptop",
+    "description": "MSI GF63 Thin 10SCXR equipped with Intel Core i5-10500H Processor (12M Cache, 2.50 GHz up to 4.50 GHz), 8GB 3200 MHz DDR4 RAM, 256GB PCIe SSD, 1TB HDD, 15.6'' FHD (1920x1080) 60Hz, IPS Display and NVIDIA GeForce GTX 1650 4GB GDDR6 Graphics. The new Latest 10th Gen. Intel Core i5 processor powers up with up to 15% performance gains over the previous generation. A higher single-core frequency is better for the gaming experience. It is fine-tuned to be noticeably quieter and cooler under load, easily blending into any environment. This laptop is designed with Aluminum hairbrush aesthetics with an asymmetric pattern of 21.7mm thin, and 1.86kg light. The fastest gaming display brings you the most vibrant visuals so you never miss a beat by using this gaming laptop. It's a Metallic top and keyboard cover paired with unique X-shaped ventilation hidden underneath. All-new Dragon Center with exclusive Gaming Mode 2.0. MSI App Player for seamless gaming experience between mobile and PC. It is also featured with High-Resolution Audio ready. This laptop will provide you with productivity and 7 hours of battery life. This new exclusive MSI Evolve GF63 Thin 10SCXR gaming laptop has 01 year International Warranty.",
+    "price": "92000",
+    "discountPrice": "88000",
+    "src": "/assets/products/1.jpg",
+    "images": [
+      {
+        "src": "/assets/products/2.jpg"
+      },
+      {
+        "src": "/assets/products/3.jpg"
+      },
+      {
+        "src": "/assets/products/4.jpg"
+      }
+    ],
+    "specifications": [
+      {
+        "title": "Display",
+        "items": [
+          {
+            "name": "Size",
+            "value": "6.4''"
+          },
+          {
+            "name": "Type",
+            "value": "OLED"
+          },
+          {
+            "name": "Resolution",
+            "value": "FHD+ (2400x1080)"
+          },
+          {
+            "name": "Refresh Rate",
+            "value": "60 Hz"
+          },
+          {
+            "name": "Features",
+            "value": "82.7% screen-to-body ratio 20:9 ratio (~411 ppi density)"
+          }
+        ]
+      },
+      {
+        "title": "Processor",
+        "items": [
+          {
+            "name": "Chipset",
+            "value": "Mediatek MT6769Z Helio G85 (12nm)"
+          },
+          {
+            "name": "CPU Type",
+            "value": "Octa-Core"
+          },
+          {
+            "name": "CPU Speed",
+            "value": "2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55"
+          },
+          {
+            "name": "GPU",
+            "value": "Mali-G52 MC2"
+          }
+        ]
+      },
+      {
+        "title": "Memory",
+        "items": [
+          {
+            "name": "RAM",
+            "value": "6GB"
+          },
+          {
+            "name": "Internal Storage",
+            "value": "128GB"
+          },
+          {
+            "name": "Card Slot",
+            "value": "MicroSD (Up to 1TB)"
+          }
+        ]
+      },
+      {
+        "title": "Rear Camera",
+        "items": [
+          {
+            "name": "Resolution",
+            "value": "50MP f/1.8 (wide) + 8MP f/2.2 (ultrawide) + 2MP f/2.4 (macro)"
+          },
+          {
+            "name": "Features",
+            "value": "LED flash, panorama, HDR, PDAF, 118˚ ultrawide"
+          },
+          {
+            "name": "Video Recording",
+            "value": "1080p@30fps"
+          }
+        ]
+      },
+      {
+        "title": "Audio",
+        "items": [
+          {
+            "name": "Speaker",
+            "value": "Loudspeaker"
+          }
+        ]
+      },
+      {
+        "title": "Network & Connectivity",
+        "items": [
+          {
+            "name": "SIM",
+            "value": "Hybrid Dual Nano SIM"
+          },
+          {
+            "name": "Network",
+            "value": "2G, 3G, 4G"
+          },
+          {
+            "name": "Wi-Fi",
+            "value": "Wi-Fi 802.11 a/b/g/n/ac | 2.4 GHz & 5 GHz | Wi-Fi hotspot"
+          },
+          {
+            "name": "Bluetooth",
+            "value": "Bluetooth 5.0, A2DP, LE"
+          },
+          {
+            "name": "GPS",
+            "value": "GPS, A-GPS, LTEPP, SUPL, GLONASS, Galileo"
+          },
+          {
+            "name": "NFC",
+            "value": "Yes"
+          },
+          {
+            "name": "USB",
+            "value": "USB Type-C 2.0"
+          },
+          {
+            "name": "OTG",
+            "value": "Yes"
+          },
+          {
+            "name": "Audio Jack",
+            "value": "3.5mm Jack"
+          }
+        ]
+      },
+      {
+        "title": "OS",
+        "items": [
+          {
+            "name": "Operating System",
+            "value": "Android 11"
+          }
+        ]
+      },
+      {
+        "title": "Features",
+        "items": [
+          {
+            "name": "Fingerprint",
+            "value": "Side-mounted"
+          },
+          {
+            "name": "Sensors",
+            "value": "Proximity sensor, Accelerometer, Ambient Light sensor, SAR sensor, Gyroscope, E-Compass"
+          },
+          {
+            "name": "IP Rating",
+            "value": "N/A"
+          },
+          {
+            "name": "Other Features",
+            "value": "Water-repellent design"
+          }
+        ]
+      },
+      {
+        "title": "Battery",
+        "items": [
+          {
+            "name": "Type",
+            "value": "Lithium-polymer 5000 mAh (non-removable)"
+          },
+          {
+            "name": "Fast Charging",
+            "value": "20W Fast Charging"
+          }
+        ]
+      },
+      {
+        "title": "Physical specification",
+        "items": [
+          {
+            "name": "Dimension",
+            "value": "161.89 x 73.87 x 8.55 mm"
+          },
+          {
+            "name": "Weight",
+            "value": "181 g"
+          },
+          {
+            "name": "Body Material",
+            "value": "Plastic"
+          },
+          {
+            "name": "Colors",
+            "value": "Mineral GreyBaby Blue"
+          }
+        ]
+      },
+      {
+        "title": "Warranty Information",
+        "items": [
+          {
+            "name": "Warranty",
+            "value": "1 Year Official Warranty (Motorola Care)"
+          }
+        ]
+      }
+    ],
+    "keyFeatures": [
+      {
+        "name": "Model",
+        "value": "GF63 Thin 10SCXR"
+      },
+      {
+        "name": "Processor",
+        "value": "Intel Core i5-10500H (12M Cache, 2.50 GHz up to 4.50 GHz)"
+      },
+      {
+        "name": "Ram",
+        "value": "8GB 3200MHz, Storage: 1TB HDD+ 256GB SSD"
+      },
+      {
+        "name": "Graphics",
+        "value": "GTX 1650 GDDR6 4GB"
+      },
+      {
+        "name": "Features",
+        "value": "Backlit Keyboard, Type C Port"
+      }
+    ]
+  }
+]

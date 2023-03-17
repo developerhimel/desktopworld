@@ -1,24 +1,87 @@
-# Next.js + Turbopack App Directory Playground
 
-[Turbopack](https://turbo.build/pack) is a new incremental bundler optimized for JavaScript and TypeScript, written in Rust by the creators of Webpack and Next.js at [Vercel](https://vercel.com). On large applications Turbopack updates 10x faster than Vite and 700x faster than Webpack ([benchmark](https://turbo.build/pack/docs/benchmarks)). For the biggest applications the difference grows even more stark with updates up to 20x faster than Vite.
+# Classic Computer | (Teamdh)
 
-This playground is a mirror of the [Next.js v13 App Directory Playground](https://github.com/vercel/app-playground), but uses Turbopack as the Next.js development server (`next dev --turbo`).
+Follow these steps to run the project locally__
 
-**As a reminder, Turbopack is currently in alpha and not yet ready for production. We appreciate your ongoing support as we work to make it ready for everyone.**
 
-## Running Locally
+## Run Locally
 
-1. Install dependencies: `yarn`
-1. Start the dev server: `yarn dev`
+Clone the project
 
-**Note:** The playground uses [Tailwind CSS](https://tailwindcss.com) via [PostCSS](https://turbo.build/pack/docs/features/css#postcss).
+```bash
+  https://github.com/developerhimel/classiccomputer.git
+```
 
-For more information, see: https://turbo.build/pack/docs/features/css#tailwind-css
+Go to the project directory
 
-## Documentation
+```bash
+  cd classiccomputer
+```
 
-https://nextjs.link/with-turbopack
+## Install dependencies
 
-## Providing Feedback
+#### Using npm
 
-https://nextjs.link/turbopack-feedback
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+#### Using yarn
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn dev
+```
+
+
+## Tech Stack
+
+**Client:** Nextjs, Redux, TailwindCSS, Antd, Typescript, axios, Mongodb, headlessui, heroicons, swiper, 
+
+**Server:** Node, Express
+
+
+## Support
+
+For support, email teamdh.org@gmail.com , programmerhimel@gmail.com , suppoert.classiccomputer@gmail.com , shamimshaharear@gmail.com or join our Telegram channel https://t.me/+CHenqMeoj8kzMmY1.
+
+
+## Used By
+
+This project is used by the following companies:
+
+- Classic Computer
+
+
+![Logo](https://classiccomputer.vercel.app/_next/image?url=%2Fassets%2Flogo%2Flogo.png&w=128&q=75)
+
+
+## Authors
+
+- [@developerhimel](https://www.github.com/developerhimel)
+- [@Shamim](https://www.github.com/Shamim116)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dribbble.com/defthimel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)

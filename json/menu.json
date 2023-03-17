@@ -1,0 +1,2730 @@
+[
+  {
+    "name": "Desktop",
+    "items": [
+      {
+        "name": "Desktop Offers"
+      },
+      {
+        "name": "Gaming PC",
+        "items": [
+          {
+            "name": "Intel PC"
+          },
+          {
+            "name": "Ryzen PC"
+          }
+        ]
+      },
+      {
+        "name": "Brand PC",
+        "items": [
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "Acer"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Dell"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "Walton"
+          }
+        ]
+      },
+      {
+        "name": "All-in-one PC",
+        "items": [
+          {
+            "name": "i-Mice"
+          },
+          {
+            "name": "MSI"
+          },
+
+          {
+            "name": "Dell"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "Asus"
+          }
+        ]
+      },
+      {
+        "name": "Apple Mac Mini"
+      },
+      {
+        "name": "Portable Mini PC",
+        "items": [
+          {
+            "name": "Asus"
+          },
+
+          {
+            "name": "Intel"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "Zotac"
+          },
+          {
+            "name": "MSI"
+          }
+        ]
+      },
+      {
+        "name": "Budget PC"
+      },
+      {
+        "name": "Apple iMac"
+      },
+      {
+        "name": "Apple Mac Studio"
+      },
+      {
+        "name": "Show All Desktop",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Laptop",
+    "items": [
+      {
+        "name": "All Laptop",
+        "items": [
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "MacBook"
+          },
+          {
+            "name": "Microsoft"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Dell"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Acer"
+          },
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "Toshiba"
+          },
+          {
+            "name": "HUAWEI"
+          },
+          {
+            "name": "AVITA_Laptop"
+          },
+          {
+            "name": "Redmi"
+          },
+          {
+            "name": "Realme"
+          }
+        ]
+      },
+      {
+        "name": "Gaming Laptop",
+        "items": [
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "Acer"
+          },
+          {
+            "name": "Gigabyte"
+          }
+        ]
+      },
+      {
+        "name": "Premium Ultrabook",
+        "items": [
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Samsung"
+          },
+          {
+            "name": "Dell"
+          }
+        ]
+      },
+      {
+        "name": "Laptop Bag",
+        "items": [
+          {
+            "name": "MaxGreen"
+          },
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "Targus"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "Tucano"
+          },
+          {
+            "name": "WiWU"
+          },
+          {
+            "name": "Xiaomi"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "Cougar"
+          }
+        ]
+      },
+      {
+        "name": "External Graphics Enclosure"
+      },
+      {
+        "name": "Laptop Accessories"
+      },
+      {
+        "name": "Show All Laptop",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Pc Components",
+    "items": [
+      {
+        "name": "Processor",
+        "items": [
+          {
+            "name": "AMD"
+          },
+          {
+            "name": "Intel"
+          }
+        ]
+      },
+      {
+        "name": "CPU Cooler",
+        "items": [
+          {
+            "name": "Lian LI"
+          },
+          {
+            "name": "EKWB"
+          },
+          {
+            "name": "Antec"
+          },
+          {
+            "name": "Zadak"
+          },
+          {
+            "name": "Noctua"
+          },
+          {
+            "name": "TEAM"
+          },
+          {
+            "name": "Gamdias"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "NZXT"
+          },
+          {
+            "name": "Phanteks"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "Cooler Master"
+          },
+          {
+            "name": "Couger"
+          },
+          {
+            "name": "Cryorig"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "Deepcool"
+          },
+          {
+            "name": "Deepcool"
+          },
+          {
+            "name": "Aigo"
+          },
+          {
+            "name": "Suphire"
+          },
+          {
+            "name": "1ST PLAYER"
+          },
+          {
+            "name": "Xigmatak"
+          },
+          {
+            "name": "AMD"
+          },
+          {
+            "name": "Montech"
+          }
+        ]
+      },
+      {
+        "name": "Motherboard",
+        "items": [
+          {
+            "name": "Intel Motherboard"
+          },
+          {
+            "name": "AMD Motherboard"
+          },
+          {
+            "name": "ASRock (Intel)"
+          },
+          {
+            "name": "AsRock (RYZEN)"
+          },
+          {
+            "name": "ASUS (Intel)"
+          },
+          {
+            "name": "ASUS (AMD)"
+          },
+          {
+            "name": "Gigabyte (Intel)"
+          },
+          {
+            "name": "Gigabyte (AMD)"
+          },
+          {
+            "name": "MSI (Intel)"
+          },
+          {
+            "name": "MSI (RYZEN)"
+          }
+        ]
+      },
+
+      {
+        "name": "Graphics Card",
+        "items": [
+          {
+            "name": "XFX"
+          },
+          {
+            "name": "PNY"
+          },
+          {
+            "name": "PALIT"
+          },
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "AsRock"
+          },
+          {
+            "name": "Galax"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "ZOTAC"
+          },
+          {
+            "name": "Colorful"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "Saphire"
+          },
+          {
+            "name": "Biostar"
+          },
+          {
+            "name": "NVIDIA"
+          },
+          {
+            "name": "ACER"
+          },
+          {
+            "name": "AFOX"
+          },
+          {
+            "name": "Intel ARC"
+          }
+        ]
+      },
+      {
+        "name": "Ram(Desktop)",
+        "items": [
+          {
+            "name": "TEAM"
+          },
+          {
+            "name": "ZADAK"
+          },
+          {
+            "name": "GEIL"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "G.Skill"
+          },
+          {
+            "name": "PNY"
+          },
+          {
+            "name": "TWINMOS"
+          },
+          {
+            "name": "Kingston"
+          },
+          {
+            "name": "ADATA"
+          },
+          {
+            "name": "Patriot"
+          },
+          {
+            "name": "Transcend"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Apacer"
+          },
+          {
+            "name": "Crucial"
+          },
+          {
+            "name": "AITC"
+          },
+          {
+            "name": "Silicon Powder"
+          },
+          {
+            "name": "Kingston"
+          },
+          {
+            "name": "Lexar"
+          }
+        ]
+      },
+      {
+        "name": "Ram(Laptop)",
+        "itmes": [
+          {
+            "name": "TEAM"
+          },
+          {
+            "name": "GEIL"
+          },
+          {
+            "name": "ADATA"
+          },
+          {
+            "name": "Transcend"
+          },
+          {
+            "name": "G.Skill"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Patriot"
+          },
+          {
+            "name": "Kingston"
+          },
+          {
+            "name": "Crucial"
+          },
+          {
+            "name": "Silicon Powder"
+          },
+          {
+            "name": "Lexar"
+          },
+          {
+            "name": "TRM"
+          },
+          {
+            "name": "Apacer"
+          },
+          {
+            "name": "PNY"
+          }
+        ]
+      },
+      {
+        "name": "Power Supply",
+        "items": [
+          {
+            "name": "Antec"
+          },
+          {
+            "name": "Gamdias"
+          },
+          {
+            "name": "Lian LI"
+          },
+          {
+            "name": "MaxGreen"
+          },
+          {
+            "name": "Cooler Master"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "1ST PLAYER"
+          },
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "Aigo"
+          },
+          {
+            "name": "Deepcool"
+          },
+          {
+            "name": "NZXT"
+          },
+          {
+            "name": "EVOLUR"
+          }
+        ]
+      },
+      {
+        "name": "Hard Disk Drive",
+        "items": [
+          {
+            "name": "Toshiba"
+          },
+          {
+            "name": "Western Digital"
+          },
+          {
+            "name": "Segate"
+          },
+          {
+            "name": "Apple"
+          },
+          {
+            "name": "Hitachi"
+          }
+        ]
+      },
+      {
+        "name": "SSD",
+        "items": [
+          {
+            "name": "ZADAK"
+          },
+          {
+            "name": "Galax"
+          },
+          {
+            "name": "TEAM"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Samsung"
+          },
+          {
+            "name": "Transcend"
+          },
+          {
+            "name": "GEIL"
+          },
+          {
+            "name": "PNY"
+          },
+          {
+            "name": "ADATA"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "Western Digital"
+          },
+          {
+            "name": "Kingston"
+          },
+          {
+            "name": "Patriot"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "Silicon Powder"
+          },
+          {
+            "name": "Segate"
+          },
+          {
+            "name": "Intel"
+          },
+          {
+            "name": "Walton"
+          },
+          {
+            "name": "Teutons"
+          },
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "TWINMOS"
+          },
+          {
+            "name": "Lexar"
+          },
+          {
+            "name": "AITC"
+          },
+          {
+            "name": "Netac"
+          },
+          {
+            "name": "Crucial"
+          },
+          {
+            "name": "Sandisk"
+          },
+          {
+            "name": "Dahua"
+          },
+          {
+            "name": "ADDlink"
+          },
+          {
+            "name": "ROBOT"
+          },
+          {
+            "name": "ACer"
+          },
+          {
+            "name": "ANACOMDA"
+          },
+          {
+            "name": "KINGSPEC"
+          },
+          {
+            "name": "Apacer"
+          }
+        ]
+      },
+      {
+        "name": "Casing",
+        "items": [
+          {
+            "name": "Antec"
+          },
+          {
+            "name": "Gamdias"
+          },
+          {
+            "name": "Lian LI"
+          },
+          {
+            "name": "ZADAK"
+          },
+          {
+            "name": "MaxGreen"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "Phanteks"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "Cooler Master"
+          },
+          {
+            "name": "NZXT"
+          },
+          {
+            "name": "1ST PLAYER"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "AIGO"
+          },
+          {
+            "name": "XTreme"
+          },
+          {
+            "name": "Value-TOP"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "Xigmatek"
+          },
+          {
+            "name": "Deepcool"
+          },
+          {
+            "name": "Montech"
+          },
+          {
+            "name": "Golden Field"
+          },
+          {
+            "name": "Cougar"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "PC COOLER"
+          },
+          {
+            "name": "Delux"
+          },
+          {
+            "name": "Revenger"
+          },
+          {
+            "name": "EVOLUR"
+          },
+          {
+            "name": "OVO"
+          },
+          {
+            "name": "View One"
+          }
+        ]
+      },
+      {
+        "name": "Portable Hard Disk Drive",
+        "items": [
+          {
+            "name": "TOSHIBA"
+          },
+          {
+            "name": "G-Technology"
+          },
+          {
+            "name": "ADATA"
+          },
+          {
+            "name": "Transcend"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Western Digital"
+          },
+          {
+            "name": "Segate"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Silicon Powder"
+          },
+          {
+            "name": "LACIE"
+          },
+          {
+            "name": "Sandisk"
+          },
+          {
+            "name": "Apacer"
+          }
+        ]
+      },
+      {
+        "name": "Portable SSD",
+        "items": [
+          {
+            "name": "SAMSUNG"
+          },
+          {
+            "name": "TEAM"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "Teutons"
+          },
+          {
+            "name": "G-Technology"
+          },
+          {
+            "name": "Transcend"
+          },
+          {
+            "name": "Western Digital"
+          },
+          {
+            "name": "ADATA"
+          },
+          {
+            "name": "Sandisk"
+          },
+          {
+            "name": "PNY"
+          },
+          {
+            "name": "LACIE"
+          },
+          {
+            "name": "Netac"
+          },
+          {
+            "name": "Crucial"
+          },
+          {
+            "name": "Segate"
+          },
+          {
+            "name": "Silicon Powder"
+          },
+          {
+            "name": "Kingston"
+          }
+        ]
+      },
+      {
+        "name": "Cooling Fan",
+        "items": [
+          {
+            "name": "Lian LI"
+          },
+          {
+            "name": "Antec"
+          },
+          {
+            "name": "MaxGreen"
+          },
+          {
+            "name": "Noctua"
+          },
+          {
+            "name": "Gamdias"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "KWG"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "NZXT"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "EKWB"
+          },
+          {
+            "name": "Montech"
+          },
+          {
+            "name": "Cooler Master"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "PC COOLER"
+          },
+          {
+            "name": "Deepcool"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "ORICO"
+          }
+        ]
+      },
+      {
+        "name": "Optical Disk Drive",
+        "items": [
+          {
+            "name": "Internal Disk Drive"
+          },
+          {
+            "name": "EXternal Disk Drive "
+          }
+        ]
+      },
+      {
+        "name": "Vertical Graphics Card"
+      },
+      {
+        "name": "Show All PC Components",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Monitor",
+    "items": [
+      {
+        "name": "AsRock"
+      },
+      {
+        "name": "Apple"
+      },
+      {
+        "name": "HUAWEI"
+      },
+      {
+        "name": "Lenovo"
+      },
+      {
+        "name": "GAMeMAX"
+      },
+      {
+        "name": "Fantech"
+      },
+      {
+        "name": "Corsair"
+      },
+      {
+        "name": "HuntKey"
+      },
+      {
+        "name": "Sony"
+      },
+      {
+        "name": "Enter"
+      },
+      {
+        "name": "Gaming Monitor"
+      },
+      {
+        "name": "Curved Monitor"
+      },
+      {
+        "name": "Touch Monitor"
+      },
+      {
+        "name": "4K Monitor"
+      },
+      {
+        "name": "Monitor ARM"
+      },
+      {
+        "name": "Acer"
+      },
+      {
+        "name": "LG"
+      },
+      {
+        "name": "ASUS"
+      },
+      {
+        "name": "MSI"
+      },
+      {
+        "name": "HP"
+      },
+      {
+        "name": "BENQ"
+      },
+      {
+        "name": "DELL"
+      },
+      {
+        "name": "SAMSUNG"
+      },
+      {
+        "name": "VIEWSONIC"
+      },
+      {
+        "name": "Gigabyte"
+      },
+      {
+        "name": "Redmi"
+      },
+      {
+        "name": "AOC"
+      },
+      {
+        "name": "Philips"
+      },
+      {
+        "name": "Show All Monitor",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Ups",
+    "items": [
+      {
+        "name": "Online UPS"
+      },
+      {
+        "name": "Offline UPS"
+      },
+      {
+        "name": "MINI UPS"
+      },
+      {
+        "name": "UPS Battery"
+      },
+      {
+        "name": "Voltage Stablizer"
+      },
+      {
+        "name": "IPS"
+      },
+      {
+        "name": "Show All UPS",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Tablet",
+    "items": [
+      {
+        "name": "Graphics Tablet"
+      },
+      {
+        "name": "APPLE"
+      },
+      {
+        "name": "Microsoft"
+      },
+      {
+        "name": "Amazon"
+      },
+      {
+        "name": "Lenovo"
+      },
+      {
+        "name": "SAMSUNG"
+      },
+      {
+        "name": "Realme"
+      },
+      {
+        "name": "Xiaomi"
+      },
+      {
+        "name": "Walton"
+      },
+      {
+        "name": "HUAWEI"
+      },
+      {
+        "name": "DIGITAL SIGNATURE RED"
+      },
+      {
+        "name": "STYLUS"
+      },
+      {
+        "name": "Show All Tablet",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Gaming Gears",
+    "items": [
+      {
+        "name": "Gaming Chair"
+      },
+      {
+        "name": "Gaming Sofa"
+      },
+      {
+        "name": "Keyboard"
+      },
+      {
+        "name": "Mouse"
+      },
+      {
+        "name": "Headphone"
+      },
+      {
+        "name": "Mouse PAD"
+      },
+      {
+        "name": "GamePad"
+      },
+      {
+        "name": "VR"
+      },
+      {
+        "name": "Gaming Console"
+      },
+      {
+        "name": "Gaming Desk"
+      },
+      {
+        "name": "Games"
+      },
+      {
+        "name": "Showw All Gaming Gears",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Accessories",
+    "items": [
+      {
+        "name": "Printer"
+      },
+      {
+        "name": "Projector"
+      },
+      {
+        "name": "Keyboard",
+        "items": [
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "Gamdias"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "KWG"
+          },
+          {
+            "name": "XStrike Me"
+          },
+          {
+            "name": "Apple"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "Astrum"
+          },
+          {
+            "name": "SteelSeries"
+          },
+          {
+            "name": "Logitech"
+          },
+          {
+            "name": "A4tech"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "Walton"
+          },
+          {
+            "name": "Durgod"
+          },
+          {
+            "name": "Dell"
+          },
+          {
+            "name": "Rappo"
+          },
+          {
+            "name": "Microsoft"
+          },
+          {
+            "name": "Matias"
+          },
+          {
+            "name": "IMICE"
+          },
+          {
+            "name": "ASUS"
+          },
+          {
+            "name": "HyperX"
+          },
+          {
+            "name": "Havit"
+          },
+          {
+            "name": "MotoSpeed"
+          },
+          {
+            "name": "Keychron"
+          },
+          {
+            "name": "Couger"
+          },
+          {
+            "name": "Delux"
+          },
+          {
+            "name": "Prolink"
+          },
+          {
+            "name": "Dareu"
+          },
+          {
+            "name": "Micropack"
+          },
+          {
+            "name": "Capturer"
+          },
+          {
+            "name": "Suntech"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "RK Royal Kludge"
+          },
+          {
+            "name": "Msi"
+          },
+          {
+            "name": "Meetion"
+          },
+          {
+            "name": "Teutions"
+          },
+          {
+            "name": "Defender"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "NZXT"
+          }
+        ]
+      },
+      {
+        "name": "Mouse",
+        "items": [
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "Gamdias"
+          },
+          {
+            "name": "XStrike Me"
+          },
+          {
+            "name": "Xtrfy"
+          },
+          {
+            "name": "Prolink"
+          },
+          {
+            "name": "KWG"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Apple"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "Astrum"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "Xiaomi"
+          },
+          {
+            "name": "Microsoft"
+          },
+          {
+            "name": "Logitech"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "BENQ"
+          },
+          {
+            "name": "Delux"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "Dell"
+          },
+          {
+            "name": "IMICE"
+          },
+          {
+            "name": "Rappo"
+          },
+          {
+            "name": "A4 Tech"
+          },
+          {
+            "name": "Havit"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "SteelSeries"
+          },
+          {
+            "name": "Dareu"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "MotoSpeed"
+          },
+          {
+            "name": "HyperX"
+          },
+          {
+            "name": "Golden Field"
+          },
+          {
+            "name": "Micropack"
+          },
+          {
+            "name": "WiWU"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "ORICO"
+          },
+          {
+            "name": "Pulsar"
+          },
+          {
+            "name": "Msi"
+          },
+          {
+            "name": "GAMeMAX"
+          },
+          {
+            "name": "Meetion"
+          },
+          {
+            "name": "Black Cat"
+          },
+          {
+            "name": "Keychron"
+          },
+          {
+            "name": "NEWmen"
+          },
+          {
+            "name": "Defender"
+          },
+          {
+            "name": "Zook"
+          },
+          {
+            "name": "NZXT"
+          },
+          {
+            "name": "Vertux"
+          },
+          {
+            "name": "Aula"
+          },
+          {
+            "name": "HUAWEI"
+          }
+        ]
+      },
+      {
+        "name": "Headphone",
+        "items": [
+          {
+            "name": "Poly"
+          },
+          {
+            "name": "Gamdias"
+          },
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "KWG"
+          },
+          {
+            "name": "XStrike Me"
+          },
+          {
+            "name": "Logitech"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "Astrum"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "Havit"
+          },
+          {
+            "name": "A4 Tech"
+          },
+          {
+            "name": "Edifer"
+          },
+          {
+            "name": "Digital X"
+          },
+          {
+            "name": "HyperX"
+          },
+          {
+            "name": "Rappo"
+          },
+          {
+            "name": "Micropack"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "Jabra"
+          },
+          {
+            "name": "Meetion"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "TUrtle Beach"
+          },
+          {
+            "name": "Corsair"
+          },
+          {
+            "name": "Baseus"
+          },
+          {
+            "name": "OVleng"
+          },
+          {
+            "name": "Thermaltake"
+          },
+          {
+            "name": "Sony"
+          },
+          {
+            "name": "Gigabyte"
+          },
+          {
+            "name": "Motorola"
+          },
+          {
+            "name": "MIcrolab"
+          },
+          {
+            "name": "SkullCandy"
+          },
+          {
+            "name": "Cougar"
+          },
+          {
+            "name": "Anker"
+          },
+          {
+            "name": "Beyerdynamic"
+          },
+          {
+            "name": "Audio Technica"
+          },
+          {
+            "name": "Yisun"
+          },
+          {
+            "name": "Sennheiser"
+          },
+          {
+            "name": "HP"
+          },
+          {
+            "name": "JBL"
+          },
+          {
+            "name": "Dareu"
+          },
+          {
+            "name": "Cisgo"
+          },
+          {
+            "name": "AKG"
+          },
+          {
+            "name": "Takstar"
+          },
+          {
+            "name": "MSI"
+          },
+          {
+            "name": "JOYROOM"
+          },
+          {
+            "name": "EKSA"
+          },
+          {
+            "name": "Beats"
+          },
+          {
+            "name": "Teutons"
+          },
+          {
+            "name": "Awei"
+          },
+          {
+            "name": "Hoco"
+          },
+          {
+            "name": "Vertux"
+          },
+          {
+            "name": "WiWU"
+          }
+        ]
+      },
+      {
+        "name": "Mouse PAD"
+      },
+      {
+        "name": "Headphone Stand"
+      },
+      {
+        "name": "Speaker & Home Theater"
+      },
+      {
+        "name": "Bluetooh Speakers"
+      },
+      {
+        "name": "Web Cam"
+      },
+      {
+        "name": "Converter & Cable"
+      },
+      {
+        "name": "Hubs & Docks"
+      },
+      {
+        "name": "Microphone"
+      },
+      {
+        "name": "DIgital Voice Recorder"
+      },
+      {
+        "name": "Presenter"
+      },
+      {
+        "name": "Sound Card"
+      },
+      {
+        "name": "Memory Card"
+      },
+      {
+        "name": "Capture Card"
+      },
+      {
+        "name": "TV Card"
+      },
+      {
+        "name": "Pen Drive"
+      },
+      {
+        "name": "Thermal Paste"
+      },
+      {
+        "name": "HDD-SSD Enclosure"
+      },
+      {
+        "name": "Power Strip"
+      },
+      {
+        "name": "BLuetooh Reciver"
+      },
+      {
+        "name": "Wifi Adapter"
+      },
+      {
+        "name": "PC Lighting & LED Strips"
+      },
+      {
+        "name": "Show All Accessories",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Camera",
+    "items": [
+      {
+        "name": "DSLR",
+        "items": [
+          {
+            "name": "Canon"
+          },
+          {
+            "name": "Nikon"
+          },
+          {
+            "name": "Panasonic"
+          },
+          {
+            "name": "Sony"
+          }
+        ]
+      },
+      {
+        "name": "Digital Camera",
+        "items": [
+          {
+            "name": "FUjiflim"
+          },
+          {
+            "name": "Sony"
+          },
+          {
+            "name": "Canon"
+          }
+        ]
+      },
+      {
+        "name": "Handy Cam"
+      },
+      {
+        "name": "Camera Lenses",
+        "items": [
+          {
+            "name": "Canon"
+          },
+          {
+            "name": "Nikhon"
+          },
+          {
+            "name": "Sony"
+          },
+          {
+            "name": "Tamron"
+          },
+          {
+            "name": "FUjiflim"
+          }
+        ]
+      },
+      {
+        "name": "Action Camera",
+        "items": [
+          {
+            "name": "DJI"
+          },
+          {
+            "name": "EKEN"
+          },
+          {
+            "name": "GOPro"
+          },
+          {
+            "name": "Insta360"
+          },
+          {
+            "name": "SJCam"
+          },
+          {
+            "name": "Akaso"
+          },
+          {
+            "name": "Xiaomi"
+          }
+        ]
+      },
+      {
+        "name": "Mirorless Camera",
+        "items": [
+          {
+            "name": "Canon"
+          },
+          {
+            "name": "Sony"
+          },
+          {
+            "name": "Nikhon"
+          },
+          {
+            "name": "FUjiflim"
+          },
+          {
+            "name": "Panasonic"
+          }
+        ]
+      },
+      {
+        "name": "Video Camera",
+        "items": [
+          {
+            "name": "Sony"
+          },
+          {
+            "name": "Panasonic"
+          },
+          {
+            "name": "Canon"
+          }
+        ]
+      },
+      {
+        "name": "Dash Cam"
+      },
+      {
+        "name": "Camera Flash"
+      },
+      {
+        "name": "Camera Tripod",
+        "items": [
+          {
+            "name": "K&F Concept"
+          },
+          {
+            "name": "Digipod"
+          },
+          {
+            "name": "Yunteg"
+          },
+          {
+            "name": "Kingjoy"
+          },
+          {
+            "name": "Manfrotto"
+          },
+          {
+            "name": "Libec"
+          }
+        ]
+      },
+      {
+        "name": "Camera Accossories",
+        "items": [
+          {
+            "name": "Lens Filter"
+          },
+          {
+            "name": "Camera Bag"
+          },
+          {
+            "name": "Lens Adapter"
+          },
+          {
+            "name": "Camera Battery"
+          },
+          {
+            "name": "Other"
+          }
+        ]
+      },{
+        "name":"Show All Camera",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Security",
+    "items": [
+      {
+        "name": "Softwares"
+      },
+      {
+        "name": "Portable Wifi Camera",
+        "items": [
+          {
+            "name": "Dahua"
+          },
+          {
+            "name": "HikVision"
+          },
+          {
+            "name": "Jovision"
+          },
+          {
+            "name": "TP-Link"
+          },
+          {
+            "name": "Realme"
+          },
+          {
+            "name": "SRI_Home"
+          },
+          {
+            "name": "ARMOR"
+          },
+          {
+            "name": "Netgear"
+          },
+          {
+            "name": "Tenda"
+          },
+          {
+            "name": "Xiaomi"
+          },
+          {
+            "name": "Uniview"
+          },
+          {
+            "name": "ORVIBO"
+          }
+        ]
+      },
+      {
+        "name": "IP Camera",
+        "items": [
+          {
+            "name": "Dahua"
+          },
+          {
+            "name": "HikVision"
+          },
+          {
+            "name": "Jovision"
+          },
+          {
+            "name": "ARMOR"
+          }
+        ]
+      },
+      {
+        "name": "CCTV Camera",
+        "items": [
+          {
+            "name": "Jovision"
+          },
+          {
+            "name": "Dahua"
+          },
+          {
+            "name": "HikVision"
+          },
+          {
+            "name": "TVT"
+          },
+          {
+            "name": "ARMOR"
+          }
+        ]
+      },
+      {
+        "name": "PTZ Camera"
+      },
+      {
+        "name": "Dahua CC Camera Package"
+      },
+      {
+        "name": "Dahua IP Camera Package"
+      },
+      {
+        "name": "HIKVision CC Camera Package"
+      },
+      {
+        "name": "DVR"
+      },
+      {
+        "name": "XVR"
+      },
+      {
+        "name": "NVR"
+      },
+      {
+        "name": "CC Camera Accessories"
+      },
+      {
+        "name": "Door Lock",
+        "items": [
+          {
+            "name": "ZKTeco"
+          },
+          {
+            "name": "Others"
+          }
+        ]
+      },
+      {
+        "name": "Security Door Bell"
+      },
+      {
+        "name": "Access Control"
+      },
+      {
+        "name": "Digital Locker & Vault "
+      },
+      {
+        "name": "Show ALl Security Tools",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Network Accessories",
+    "items": [
+      {
+        "name": "Router",
+        "items": [
+          {
+            "name": "Zyxel"
+          },
+          {
+            "name": "Wavlink"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "TP-Link"
+          },
+          {
+            "name": "D-Link"
+          },
+          {
+            "name": "Netgear"
+          },
+          {
+            "name": "Tenda"
+          },
+          {
+            "name": "Netis"
+          },
+          {
+            "name": "Mi"
+          },
+          {
+            "name": "Microtik"
+          },
+          {
+            "name": "Cisgo "
+          },
+          {
+            "name": "TotoLink"
+          },
+          {
+            "name": "Planet"
+          },
+          {
+            "name": "Cudy"
+          },
+          {
+            "name": "Mercusys"
+          }
+        ]
+      },
+      {
+        "name": "Access Point & Range Extender",
+        "items": [
+          {
+            "name": "Zyxel"
+          },
+          {
+            "name": "Wavlink"
+          },
+          {
+            "name": "LinkSYS"
+          },
+          {
+            "name": "TP-Link"
+          },
+          {
+            "name": "Mercusys"
+          },
+          {
+            "name": "Mi"
+          },
+          {
+            "name": "Asus"
+          },
+          {
+            "name": "Netis"
+          },
+          {
+            "name": "Netgear"
+          },
+          {
+            "name": "Tenda"
+          },
+          {
+            "name": "MIcrotik"
+          },
+          {
+            "name": "Grandstream"
+          },
+          {
+            "name": "D-Link"
+          },
+          {
+            "name": "TotoLink"
+          },
+          {
+            "name": "Ubiquiti"
+          },
+          {
+            "name": "Cambium"
+          }
+        ]
+      },
+      {
+        "name": "Network Switch",
+        "items": [
+          {
+            "name": "Zyxel"
+          },
+          {
+            "name": "TP-Link"
+          },
+          {
+            "name": "Netgear"
+          },
+          {
+            "name": "Microtik"
+          },
+          {
+            "name": "D-Link"
+          },
+          {
+            "name": "TotoLink"
+          },
+          {
+            "name": "Tenda"
+          },
+          {
+            "name": "Dell"
+          },
+          {
+            "name": "Cisgo "
+          },
+          {
+            "name": "Netis"
+          },
+          {
+            "name": "Mercusys"
+          },
+          {
+            "name": "Cudy"
+          }
+        ]
+      },
+      {
+        "name": "Lan Card",
+        "items": [
+          {
+            "name": "Prolink"
+          },
+          {
+            "name": "TP-Link"
+          },
+          {
+            "name": "Tenda"
+          },
+          {
+            "name": "D-Link"
+          },
+          {
+            "name": "TotoLink"
+          },
+          {
+            "name": "Wavlink"
+          },
+          {
+            "name": "Mercusys"
+          },
+          {
+            "name": "Cudy"
+          }
+        ]
+      },
+      {
+        "name": "Utp Cable Box",
+        "items": [
+          {
+            "name": "Prolink"
+          },
+          {
+            "name": "R&M"
+          },
+          {
+            "name": "ROseberger"
+          }
+        ]
+      },
+      {
+        "name": "FIber Optic Cable & Accessories "
+      },
+      {
+        "name": "Media Converter"
+      },
+      {
+        "name": "Networking Tools",
+        "items": [
+          {
+            "name": "Crimping Tool"
+          },
+          {
+            "name": "Splitter Machine"
+          },
+          {
+            "name": "ONU"
+          },
+          {
+            "name": "Network Transceivers"
+          }
+        ]
+      },
+      {
+        "name": "Show All Networking Accessories",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Gadget",
+    "items": [
+      {
+        "name": "Smart Watch",
+        "items": [
+          {
+            "name": "Fire-Boltt"
+          },
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "Kospet"
+          },
+          {
+            "name": "Amazfit"
+          },
+          {
+            "name": "Zepp"
+          },
+          {
+            "name": "MIBro"
+          },
+          {
+            "name": "COLMI"
+          },
+          {
+            "name": "KISelect"
+          },
+          {
+            "name": "Astrum"
+          },
+          {
+            "name": "Havit"
+          },
+          {
+            "name": "SAMSUNG"
+          },
+          {
+            "name": "Walton"
+          },
+          {
+            "name": "Zeblaze"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "Oneplus"
+          },
+          {
+            "name": "WiWU"
+          },
+          {
+            "name": "Mobvoi"
+          },
+          {
+            "name": "1More"
+          },
+          {
+            "name": "Hoco"
+          },
+          {
+            "name": "Xiaomi"
+          },
+          {
+            "name": "Realme"
+          },
+          {
+            "name": "HUAWEI"
+          },
+          {
+            "name": "Apple"
+          }
+        ]
+      },
+      {
+        "name": "Smart Band"
+      },
+      {
+        "name": "Earphone",
+        "items": [
+          {
+            "name": "Sennheiser"
+          },
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "Xiaomi"
+          },
+          {
+            "name": "A4 Tech"
+          },
+          {
+            "name": "Astrum"
+          },
+          {
+            "name": "Rappo"
+          },
+          {
+            "name": "Edifer"
+          },
+          {
+            "name": "Apple"
+          },
+          {
+            "name": "Realme"
+          },
+          {
+            "name": "UiSii"
+          },
+          {
+            "name": "Teutons"
+          },
+          {
+            "name": "Awei"
+          },
+          {
+            "name": "Logitech"
+          },
+          {
+            "name": "Havit"
+          },
+          {
+            "name": "Remax"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "Oneplus"
+          },
+          {
+            "name": "Motorola"
+          },
+          {
+            "name": "PLextone"
+          },
+          {
+            "name": "Sony"
+          },
+          {
+            "name": "Anker"
+          },
+          {
+            "name": "Baseus"
+          },
+          {
+            "name": "Micropack"
+          },
+          {
+            "name": "Samsung"
+          },
+          {
+            "name": "Boya"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "ASUs"
+          },
+          {
+            "name": "JOYROOM"
+          },
+          {
+            "name": "JBl"
+          },
+          {
+            "name": "Wavefun"
+          },
+          {
+            "name": "1 MOre"
+          },
+          {
+            "name": "HUAWEI"
+          },
+          {
+            "name": "SkullCandy"
+          },
+          {
+            "name": "WiWU"
+          },
+          {
+            "name": "Yisun"
+          },
+          {
+            "name": "Takstar"
+          },
+          {
+            "name": "Redragon"
+          },
+          {
+            "name": "Dareu"
+          },
+          {
+            "name": "Energier"
+          },
+          {
+            "name": "Nokia"
+          },
+          {
+            "name": "ZOOOK"
+          },
+          {
+            "name": "KZ"
+          },
+          {
+            "name": "Beats"
+          },
+          {
+            "name": "Other"
+          }
+        ]
+      },
+      {
+        "name": "Earbuds",
+        "items": [
+          {
+            "name": "Xiaomi"
+          },
+          {
+            "name": "A4 Tech"
+          },
+          {
+            "name": "MIBro"
+          },
+          {
+            "name": "Rappo"
+          },
+          {
+            "name": "Edifer"
+          },
+          {
+            "name": "Realme"
+          },
+          {
+            "name": "UiSii"
+          },
+          {
+            "name": "Teutons"
+          },
+          {
+            "name": "Awei"
+          },
+          {
+            "name": "IPS"
+          },
+          {
+            "name": "Havit"
+          },
+          {
+            "name": "Remax"
+          },
+          {
+            "name": "Fantech"
+          },
+          {
+            "name": "Oneplus"
+          },
+          {
+            "name": "Nothing"
+          },
+          {
+            "name": "Motorola"
+          },
+          {
+            "name": "Sony"
+          },
+          {
+            "name": "Anker"
+          },
+          {
+            "name": "Baseus"
+          },
+          {
+            "name": "Boya"
+          },
+          {
+            "name": "Lenovo"
+          },
+          {
+            "name": "ASUS"
+          },
+          {
+            "name": "QCY"
+          },
+          {
+            "name": "JOYROOM"
+          },
+          {
+            "name": "Jabra"
+          },
+          {
+            "name": "HUAWEI"
+          },
+          {
+            "name": "Dareu"
+          },
+          {
+            "name": "Energier"
+          },
+          {
+            "name": "Razer"
+          },
+          {
+            "name": "SkullCandy"
+          },
+          {
+            "name": "APPLE"
+          },
+          {
+            "name": "Nokia"
+          },
+          {
+            "name": "JBL"
+          },
+          {
+            "name": "Wavefun"
+          },
+          {
+            "name": "Ugreen"
+          },
+          {
+            "name": "Beats"
+          },
+          {
+            "name": "1More"
+          },
+          {
+            "name": "PLextone"
+          },
+          {
+            "name": "SAMSUNG"
+          }
+        ]
+      },
+      {
+        "name": "Neckbend"
+      },
+      {
+        "name": "Power Bank"
+      },
+      {
+        "name": "Glimbal"
+      },
+      {
+        "name": "TV BOX"
+      },
+      {
+        "name": "Drones"
+      },
+      {
+        "name": "Portable Power Station"
+      },
+      {
+        "name": "Studio Equipment"
+      },
+      {
+        "name": "Daily Lifestyle"
+      },
+      {
+        "name": "Sweing Machine"
+      },
+      {
+        "name": "Calculator"
+      },
+      {
+        "name": "Blower"
+      },
+      {
+        "name": "Mobile Phone Accessories "
+      },
+      {
+        "name": "Stream Deck"
+      },
+      {
+        "name": "Show All Gadget",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "Combo",
+    "items": [
+      {
+        "name": "A4 Tech"
+      },
+      {
+        "name": "Asus"
+      },
+      {
+        "name": "Cooler Master"
+      },
+      {
+        "name": "Couger"
+      },
+      {
+        "name": "Fantech"
+      },
+      {
+        "name": "Gamdias"
+      },
+      {
+        "name": "Havit"
+      },
+      {
+        "name": "HP"
+      },
+      {
+        "name": "IMICE"
+      },
+      {
+        "name": "Logitech"
+      },
+      {
+        "name": "Meetion"
+      },
+      {
+        "name": "MSI"
+      },
+      {
+        "name": "Razer"
+      },
+      {
+        "name": "XStrike"
+      },
+      {
+        "name": "Show All Combo",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "TV",
+    "items": [
+      {
+        "name": "ALL TV"
+      },
+      {
+        "name": "LED TV"
+      },
+      {
+        "name": "Smart TV"
+      },
+      {
+        "name": "Android TV"
+      },
+      {
+        "name": "4K TV"
+      },
+      {
+        "name": "Akash Digital TV"
+      },
+      {
+        "name": "TV Stand & Wall Mount"
+      },
+      {
+        "name": "Show All TV",
+        "value": "sl"
+      }
+    ]
+  },
+  {
+    "name": "AC",
+    "items": [
+      {
+        "name": "General"
+      },
+      {
+        "name": "CARRIER"
+      },
+      {
+        "name": "MIdea"
+      },
+      {
+        "name": "Gree"
+      },
+      {
+        "name": "Xiaomi"
+      },
+      {
+        "name": "Show All AC",
+        "value": "sl"
+      }
+    ]
+  }
+]
